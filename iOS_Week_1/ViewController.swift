@@ -29,6 +29,9 @@ class ViewController: UIViewController {
         let structObj = SampleStruct(title: "title", subTitle: "subTitle")
         let classObj = SampleClass(name: "name", surName: "surname").setTitleObject(by: structObj)
         classObj.display()
+        
+        let wstruct = SkillsStruct(attack: "Super Punch", defence: "Concrete Guard")
+        let wobj = WarriorClass(name: "Igor", healt: 100).setWarriorSkill(by: wstruct).showWarior()
     }
 
     
