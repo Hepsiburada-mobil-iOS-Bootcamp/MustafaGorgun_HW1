@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2BA101F126FE3DBA00C0DC7E /* WarriorClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2BA101F026FE3DBA00C0DC7E /* WarriorClass.swift */; };
+		2BA101F326FE3DD900C0DC7E /* StateEnum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2BA101F226FE3DD900C0DC7E /* StateEnum.swift */; };
+		2BA101F526FE3DF100C0DC7E /* SkillsStruct.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2BA101F426FE3DF100C0DC7E /* SkillsStruct.swift */; };
 		A7CF0A4126F7BEBF0049FA45 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7CF0A4026F7BEBF0049FA45 /* AppDelegate.swift */; };
 		A7CF0A4326F7BEBF0049FA45 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7CF0A4226F7BEBF0049FA45 /* SceneDelegate.swift */; };
 		A7CF0A4526F7BEBF0049FA45 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7CF0A4426F7BEBF0049FA45 /* ViewController.swift */; };
@@ -42,6 +45,9 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		2BA101F026FE3DBA00C0DC7E /* WarriorClass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WarriorClass.swift; sourceTree = "<group>"; };
+		2BA101F226FE3DD900C0DC7E /* StateEnum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StateEnum.swift; sourceTree = "<group>"; };
+		2BA101F426FE3DF100C0DC7E /* SkillsStruct.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SkillsStruct.swift; sourceTree = "<group>"; };
 		A7CF0A3D26F7BEBF0049FA45 /* iOS_Week_1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = iOS_Week_1.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A7CF0A4026F7BEBF0049FA45 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		A7CF0A4226F7BEBF0049FA45 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -161,6 +167,9 @@
 				A7CF0A8026F7CECE0049FA45 /* SampleClass.swift */,
 				A7CF0A8226F7CED40049FA45 /* SampleStruct.swift */,
 				A7CF0A8426F7CFD60049FA45 /* SampleEnum.swift */,
+				2BA101F026FE3DBA00C0DC7E /* WarriorClass.swift */,
+				2BA101F226FE3DD900C0DC7E /* StateEnum.swift */,
+				2BA101F426FE3DF100C0DC7E /* SkillsStruct.swift */,
 			);
 			path = Modules;
 			sourceTree = "<group>";
@@ -299,9 +308,12 @@
 				A7CF0A7826F7C5EB0049FA45 /* AlgorithmManager.swift in Sources */,
 				A7CF0A4526F7BEBF0049FA45 /* ViewController.swift in Sources */,
 				A7CF0A4B26F7BEBF0049FA45 /* iOS_Week_1.xcdatamodeld in Sources */,
+				2BA101F326FE3DD900C0DC7E /* StateEnum.swift in Sources */,
 				A7CF0A8326F7CED40049FA45 /* SampleStruct.swift in Sources */,
 				A7CF0A8126F7CECE0049FA45 /* SampleClass.swift in Sources */,
 				A7CF0A4126F7BEBF0049FA45 /* AppDelegate.swift in Sources */,
+				2BA101F126FE3DBA00C0DC7E /* WarriorClass.swift in Sources */,
+				2BA101F526FE3DF100C0DC7E /* SkillsStruct.swift in Sources */,
 				A7CF0A4326F7BEBF0049FA45 /* SceneDelegate.swift in Sources */,
 				A7CF0A8526F7CFD60049FA45 /* SampleEnum.swift in Sources */,
 				A7CF0A7A26F7C5F50049FA45 /* AlgorithmProtocol.swift in Sources */,
